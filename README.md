@@ -9,3 +9,5 @@ httpclient + MQ
     RabbitMQ ：
       简单的消息生产消费
       消息队列的自动补偿机制
+springboot-httpclient-mq-consumer 消费者
+sprongboot-httpclient-mq    生产者
